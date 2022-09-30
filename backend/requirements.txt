@@ -5,7 +5,7 @@ django-rest==0.0.1
 django-rest-auth==0.9.5
 djangorestframework==3.10.3
 freeze==1.0.10
-joblib==0.14.0
+joblib==1.2.0
 numpy==1.17.3
 psycopg2-binary==2.8.4
 python-dotenv==0.10.3
